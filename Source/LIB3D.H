@@ -1,0 +1,25 @@
+#include "stdafx.h"
+
+#include "dib.h"
+#include "point3d.h"
+#include "vector3d.h"
+#include "color.h"
+#include "ray3d.h"
+#include "shader.h"
+#include "constant.h"
+#include "texture.h"
+#include "chequer.h"
+#include "wood.h"
+#include "object3d.h"
+#include "light3d.h"
+#include "camera3d.h"
+#include "sphere3d.h"
+#include "plane3d.h"
+#include "box3d.h"
+#include "objlst.h"
+#include "lightlst.h"
+#include "screen3d.h"
+#include "model3d.h"
+
+#define E 0.000000001
+#define PI 3.1415926
